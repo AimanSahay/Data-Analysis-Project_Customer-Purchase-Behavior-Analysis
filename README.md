@@ -10,7 +10,7 @@ Project Highlights:
 3. Probability Distribution
 4. Hypothesis Testing
 5. In-depth Analysis of Customer Purchase Behavior
-6. Data Visualization (barplot, scatterplot, pointplot, countplot, histogram, heatmap etc.)
+6. Data Visualization (boxplot, barplot, scatterplot, pointplot, countplot, histogram, piechart, heatmap etc.)
 7. Meaningful Insights
 8. Actionable Recommendations
 
